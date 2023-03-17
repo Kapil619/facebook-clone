@@ -1,4 +1,4 @@
 # facebook-clone
 hey all,
 This is a facebook clone created by me using tailwind css & html.
-https://github.com/Kapil619/facebook-clone/issues/2#issue-1629201318
+![fb-clone](https://user-images.githubusercontent.com/84692375/225901354-9c640a78-f199-4c98-8e09-8c55f1fedbee.png)
